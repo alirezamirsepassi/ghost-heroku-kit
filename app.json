@@ -31,7 +31,6 @@
   },
   "addons": [
     "heroku-postgresql",
-    "mandrill",
     "cloudinary"
   ]
 }
